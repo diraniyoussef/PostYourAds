@@ -1,0 +1,2 @@
+rootProject.name='PostYourAds'
+include ':app'
