@@ -14,3 +14,4 @@ Helping conditions :
 There won't be many files, so we can do a simple search in the folder containing the files.
 
 Anyway, I will keep it with the SQLite database, because the structure of each table (referencing an 'item') is only made of a series of posts. I will be using "auto-increment" in case the administrator deleted an item, so we keep the chronological order.
+https://stackoverflow.com/questions/2202645/how-do-i-store-json-data-on-a-disk
